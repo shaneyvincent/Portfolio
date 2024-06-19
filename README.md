@@ -1,1 +1,1 @@
-# Portfolio2
+Shaneys Portfolio using Bootsrtrap and Angular
